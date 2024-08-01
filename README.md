@@ -2,24 +2,22 @@
 
 # Receiver Covers TX Fee
 
+This project implements a system where the sender signs a transaction data off-chain and sends the signature to the receiver, who then pays the transaction fee instead of the sender. A more advanced and secure implementation can be found on the OpenZeppelin website.
+
 ## Table of Contents
 
-- [Introduction](#introduction)
+- [Introduction](#receiver-covers-tx-fee)
 - [Theory Notes](#theory-notes)
-  - [Digital Signatures: Signing, Verifying, and Extracting the Public Address](#digital-signatures-signing-verifying-and-extracting-the-public-address)
+  - [Digital Signatures](#digital-signatures)
 - [Features and Functionality](#features-and-functionality)
 - [Implementation](#implementation)
   - [Contract Overview](#contract-overview)
   - [Tests](#tests)
 - [Running the Project Locally](#running-the-project-locally)
 
-## Introduction
-
-This project implements a system where the sender signs a transaction data off-chain and sends the signature to the receiver, who then pays the transaction fee instead of the sender. A more advanced and secure implementation can be found on the OpenZeppelin website.
-
 ## Theory Notes
 
-### Digital Signatures: Signing, Verifying, and Extracting the Public Address
+### Digital Signatures
 
 Digital signatures provide a way to ensure the authenticity and integrity of a message. In the context of this project, the following elements are crucial:
 - **Signing**: The sender creates a digital signature using their private key, which is used to confirm the authenticity of the data.
