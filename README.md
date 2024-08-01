@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/382db744-acb3-46d5-916a-a1cc4769f123" alt="digital-signature-image"/>
+<img src="https://github.com/user-attachments/assets/78052828-6734-402f-8359-a20156f4f840" alt="digital-signature-image"/>
 
 # Receiver Covers TX Fee
 
