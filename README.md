@@ -76,4 +76,4 @@ This setup ensures that you can develop, test, and deploy the contract locally u
 
 <a href="https://ru.freepik.com/free-vector/znacok-biometriceskoi-identifikacii_23182515.htm#fromView=search&page=1&position=1&uuid=17aafe63-81d9-48e0-9c0e-202683d1dd44">Pic from macrovector on Freepik</a>
 
-*** Happy Hacking ***
+***Happy Hacking***
